@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm totally newby on GitHub.
 <!--
 **morehagi/morehagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
